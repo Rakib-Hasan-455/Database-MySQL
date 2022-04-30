@@ -2,6 +2,7 @@
 My Special Notes of MySQL
 
 Google Doc Link: https://docs.google.com/document/d/11HZVqY5AGd4BhOsUahSTSxMNA7ed1ndw/ <br>
+Practice Link: https://sqlzoo.net/ <br>
 PDF: [Download](https://github.com/Rakib-Hasan-455/Database-MySQL/blob/main/Database%20All%20Query%20Hard%20Note.pdf) <br>
 Doc: [Download](https://github.com/Rakib-Hasan-455/Database-MySQL/blob/main/Database%20All%20Query%20Hard%20Note.docx)
 
